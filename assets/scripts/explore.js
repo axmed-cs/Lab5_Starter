@@ -50,5 +50,8 @@ function speak(selectElement, speechSynth, allVoices) {
   }
   if (text.value){
     speechSynth.speak(utterance);
+    //change picture
+    const image = document.querySelector('img');
+    while (speeckSynth.speaking) {}
   }
 }
