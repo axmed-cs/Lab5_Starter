@@ -12,3 +12,9 @@ Ahmed Abdullahi
 - Yes, I would check to see if it handles the max-character limit and that the function is working as intended. 
    - max-character length
    - above character length
+
+- explore:
+   https://axmed-cs.github.io/Lab5_Starter/explore.html
+
+- expose:
+   https://axmed-cs.github.io/Lab5_Starter/expose.html
