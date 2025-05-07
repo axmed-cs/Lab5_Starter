@@ -76,7 +76,7 @@ function changeAudio(audio) {
 
 function changeVolume(volumeElement) {
   const currVolume = volumeElement.value;
-
+ 
   //change volume audio element 
   const audioElement = document.querySelector('audio');
   audioElement.volume = currVolume / 100;
